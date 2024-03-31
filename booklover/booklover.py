@@ -47,7 +47,8 @@ class BookLover():
 
 
 
-def main():    
+def main(): 
+    """
    test_object = BookLover("Han Solo", "hsolo@millenniumfalcon.com", "scifi")
    print(test_object.add_book("War of the Worlds", 4))
    print(test_object.add_book("Where is my Hat", 5))
@@ -57,7 +58,7 @@ def main():
    print("favorite books:", test_object.fav_books())
    print("Number of books read:", test_object.num_books_read())
   
-
+"""
     
 
 

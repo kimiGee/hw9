@@ -1,6 +1,10 @@
 import unittest
+import sys
 import pandas as pd
 from booklover import BookLover
+
+sys.path.insert(0, '/home/rrp5ut/Documents/MSDS/DS5100/git/hw9/booklover
+')
 
 class BookLoverTestSuite(unittest.TestCase):
 
